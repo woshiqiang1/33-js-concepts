@@ -75,6 +75,7 @@
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
 - :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
 - :book: [Tasks, microtasks, queues and schedules —— Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- :book: [Tasks, microtasks, queues and schedules（译） —— 掘金](https://juejin.im/entry/55dbd51a60b2f3a92a8f5bff)
 
 ### 视频
 
@@ -99,7 +100,7 @@
 ### 文章
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
-- :book: [[译]JavaScript 是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
+- :book: [[译]JavaScript 是怎样编码数字的 —— SegmentFault](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -235,7 +236,8 @@
 - :book: [一次性搞懂 JavaScript 闭包 —— 简书](https://www.jianshu.com/p/796e903754f1)
 - :book: [JavaScript 闭包 —— SegmentFault](https://segmentfault.com/a/1190000006875662)
 - :book: [js 匿名自执行函数中闭包的高级使用 —— 掘金](https://juejin.im/entry/5800eb7da22b9d005b36156e)
-- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6#comment)
+- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
@@ -318,6 +320,8 @@
 - :book: [Javascript 的匿名函数与自执行 —— 掘金](https://juejin.im/entry/57fee360a22b9d005b1d9ae3)
 - :book: [前端模块化——技术选型 —— SegmentFault](https://segmentfault.com/a/1190000006966358)
 - :book: [谈谈 Js 前端模块化规范 —— SegmentFault](https://segmentfault.com/a/1190000015991869#articleHeader8)
+- :book: [函数声明与函数表达式的区别 —— 伯乐在线](http://web.jobbole.com/87534/)
+
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -508,6 +512,7 @@
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
 - :book: [JavaScript 深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
@@ -551,7 +556,6 @@
 
 ### 文章
 
-- :book: [设计模式 —— 阮一峰](http://javascript.ruanyifeng.com/library/designpattern.html)
 - :book: [JavaScript 设计模式 —— 掘金](https://juejin.im/post/59df4f74f265da430f311909)
 - :book: [学用 JavaScript 设计模式 —— 极客学院](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 - :book: [[面试专题]JS 设计模式 —— SegmentFault](https://segmentfault.com/a/1190000010914032)
